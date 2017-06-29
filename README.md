@@ -1,0 +1,1 @@
+# antares_server_side_inventory
